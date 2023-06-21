@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**serdarmengutay/serdarmengutay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ---------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+ ### I'm Serdar Mengütay. I'm a Mobile Application Developer
+ 
+- Currently working at Minisoft 
+- 🔭 I’m currently working on React Native
+- 🌱 I’m currently learning ReactJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 How to reach me: serdarmngty03@gmail.com
+
+Skills 
+--------------------------------
+- React Native, Axios, Redux, Figma, Postman, Clean Code, 
+
+
