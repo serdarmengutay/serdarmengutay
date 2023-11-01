@@ -4,7 +4,6 @@
 
  ### I'm Serdar Mengütay. I'm a Mobile Application Developer
  
-- Currently working at Minisoft 
 - 🔭 I’m currently working on React Native
 - 🌱 I’m currently learning ReactJS
 
